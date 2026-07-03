@@ -2,7 +2,7 @@
 
 <img src="https://files.catbox.moe/iv2w0d.jpg" width="400">
 
-# 🎵 Elevenyts
+# 🎵 𝐁𝐋𝐀𝐂𝐊
 
 ### Advanced Telegram Voice Chat Music Bot
 
