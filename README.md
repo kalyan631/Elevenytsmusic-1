@@ -331,15 +331,15 @@ python -m Elevenyts
 
 ### SEND SCREENSHOT TO SUPPORT
 
-[![ARTIST](https://files.catbox.moe/kcnahh.png)](https://t.me/Artistbots)
+[![𝐁𝐋𝐀𝐂𝐊](https://files.catbox.moe/iv2w0d.jpg)](https://t.me/Revenge_mode)
 </p>
 
 ---
 
 ### 📢 Telegram Channel 💬 Support Group
 
-- **Telegram Channel**: [Artist bots](https://t.me/Artistbots)
-- **Support Group**: [Elevenyts Music](https://t.me/elevenytsmusic)
+- **Telegram Channel**: [𝐁𝐋𝐀𝐂𝐊](https://t.me/Revenge_mode)
+- **Support Group**: [Elevenyts Music](https://t.me/)
 ---
 
 # 🔒 Security Notes
