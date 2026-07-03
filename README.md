@@ -1,6 +1,6 @@
 <div align="center"> 
 
-<img src="https://files.catbox.moe/zlmv6v.png" width="400">
+<img src="https://files.catbox.moe/iv2w0d.jpg" width="400">
 
 # 🎵 Elevenyts
 
