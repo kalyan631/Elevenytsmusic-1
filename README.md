@@ -6,7 +6,7 @@
 
 ### Advanced Telegram Voice Chat Music Bot
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+Elevenyts+REPOSITORY;ADVANCED+TELEGRAM+MUSIC+BOT;HIGH+QUALITY+VOICE+CHAT+STREAMING;MULTI+LANGUAGE+SUPPORT;POWERED+BY+ARTISTBOTS)](https://github.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+𝐁𝐋𝐀𝐂𝐊+REPOSITORY;ADVANCED+TELEGRAM+MUSIC+BOT;HIGH+QUALITY+VOICE+CHAT+STREAMING;MULTI+LANGUAGE+SUPPORT;POWERED+BY+𝐁𝐋𝐀𝐂𝐊)](https://github.com)
 
 <br>
 
@@ -376,9 +376,9 @@ python -m Elevenyts
 - Use a second ID for the assistant ID 
 ---
 
-### Made with ❤️ by Artist
+### Made with ❤️ by 𝐁𝐋𝐀𝐂𝐊
 
-### Powered by ArtistBots
+### Powered by 𝐁𝐋𝐀𝐂𝐊
 
 ### © 2026 Elevenyts. All Rights Reserved.
 
